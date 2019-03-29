@@ -1,0 +1,3 @@
+My Code Tutorial
+================
+Run $python hw1_Wittfoth_Katja.py on your terminal

@@ -1,0 +1,5 @@
+Auto Generated Code Documentation
+=================================
+.. automodule:: hw1_Wittfoth_Katja
+    :members:
+    :undoc-members:
